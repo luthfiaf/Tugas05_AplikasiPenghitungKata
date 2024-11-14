@@ -48,8 +48,7 @@ Ini adalah aplikasi Java Swing sederhana yang memungkinkan pengguna untuk memasu
 
 ## Penulis
 
-- Pengembang: [Nama Anda]
-- Email: [Alamat Email Anda]
+- Pengembang: [Muhammad luthfianur Arifin]
 
 ## Lisensi
 
